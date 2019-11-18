@@ -1,6 +1,6 @@
 # Predicting-well-status-in-Alberta-for-Untapped-Energy-Data-Science-Competition
 
-Keywords: Data science competition, Oil and gas analytics, predicting well status, predicting well production,gradient boosting, deep learning, tensorflow, xgboost, pandas, scikit-learn, cross validation, hyperparameter tuning.
+Keywords: Data science competition, Oil and gas analytics, predicting well status, predicting well production,gradient boosting, deep learning, tensorflow, xgboost, pandas, scikit-learn, cross validation, hyperparameter tuning, scaling, Yeo-Johnson transform.
 
 This is the script submitted to the Untapped Energy reClaim Data competition : Classification challenge. 
 The model created in this script placed 5th in the competition with over a 90 percent accuracy and a similar model place 4th in the Untapped Energy reClaim Data competition : Regression challenge.
